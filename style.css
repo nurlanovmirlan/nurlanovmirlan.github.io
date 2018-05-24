@@ -1,0 +1,250 @@
+h2{
+	text-align: center;
+}
+
+.header{
+	margin: -120px 0px 400px 0px;
+	border-radius: 20px;
+	font-family: 'Arima Madurai', cursive;
+}
+
+.block1{
+	display: inline-block;
+}
+body {
+	margin: 150px;
+}
+body{
+	background-image: url("img/background.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+}
+.header {
+	background-color: black;
+	color: white;
+	text-align: center;
+	background-color: rgba(0, 0, 0, .80);
+	margin: ;
+}
+
+.header h1{
+	text-align: center;
+	font-size: 50px;
+}
+.header123 h1{
+	text-align: center;
+	font-size: 50px;
+}
+.header112 h1{
+	text-align: center;
+	font-size: 50px;
+}
+.header121 h1{
+	text-align: center;
+	font-size: 50px;
+}
+div.header h1, li {
+	display: inline;
+	margin: 30px;
+}
+div.header123 h1, li {
+	display: inline;
+	margin: 30px;
+}
+div.header112 h1, li {
+	display: inline;
+	margin: 30px;
+}
+div.header121 h1, li {
+	display: inline;
+	margin: 30px;
+}
+.header ul{
+	font-size: 30px;
+}
+.header123 ul{
+	font-size: 30px;
+}
+.header112 ul{
+	font-size: 30px;
+}
+.header121 ul{
+	font-size: 30px;
+}
+
+.webdesign {
+	display: inline-block;
+	height: 400px;
+	width: 300px;
+	background-color: white;
+	color: white;
+	margin: 4.5%;
+	text-align: center;
+	border-radius: 30px;
+	font-family: 'Arima Madurai', cursive;
+}
+
+.text {
+	color: darkred;
+	border-bottom: grey solid 2px;
+	border-top: grey solid 2px;
+	font-size: 100px;
+}
+div.webdesign h1 {
+	border-bottom: white solid 1px;
+	padding: 7px;
+	
+}
+div.webdesigh p a {
+	background-color: darkred;
+	padding: 10px 17px;
+	background: none;
+}
+.link1{
+	text-align: center;
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.webdesign img{
+	border-radius: 30px;
+	height: 400px;
+	width: 300px;
+	border: white solid 8pt;
+}
+.heading h1{
+	font-size: 50px;
+	color: white;
+}
+#Alan{
+	display: inline-block;
+	text-align: left;
+	width: 45%;
+}
+#alanp{
+	display: inline-block;
+	font-size: 30px;
+	color: red;
+	background-color: black;
+	height: 20%;
+	width: 45%;
+	margin-top: 0px;
+}
+.backback{
+	background-image: url("img/back.jpg");
+	background-size: 100%;
+	background-attachment: fixed; 	
+	border-radius: 30px;
+	height: 100%;
+	width: 100%;
+	border: white solid 8pt;
+	text-align: center;
+}
+#denisbiografy{
+	display: inline-block;
+	height: 400px;
+	width: 300px;
+	background-color: darkgrey;
+	color: white;
+	margin: 4.5%;
+	text-align: center;
+	font-family: 'Arima Madurai', cursive;
+	border-radius: 30px;
+	border: white solid 8pt;
+}
+.webdeni{
+	display: inline-block;
+	height: 400px;
+	width: 300px;
+	background-color: darkgrey;
+	color: white;
+	margin: 4.5%;
+	text-align: center;
+	font-family: 'Arima Madurai', cursive;
+	border-radius: 30px;
+	border: white solid 8pt;
+}
+.webdeni img{
+	border-radius: 30px;
+	height: 400px;
+	width: 300px;
+	border: white solid 8pt;
+}
+.avtor img{
+	display: inline-block;
+	height: 1000px;
+	width: 800px;
+	background-color: black;
+	border-radius: 30px;
+	border: white solid 8pt;
+}
+.header123{
+	background-color: black;
+	color: white;
+	text-align: center;
+	background-color: rgba(0, 0, 0, .80);
+	margin: -120px 0px 0px 0px;
+	border-radius: 20px;
+	font-family: 'Arima Madurai', cursive;
+}
+.avtorsback{
+	background-color: white;
+	background-size: 100%;
+	background-attachment: fixed; 	
+	border-radius: 30px;
+	height: 100%;
+	width: 100%;
+	border: black solid 8pt;
+}
+.text123{
+	color: black;
+	margin: 15px;
+	font-size: 20px;
+	text-align: center;
+}
+.text123 h1{
+	color: black;
+}
+.avtor h1{
+	color: black;
+	margin: 15px;
+	font-size: 80px;
+	text-align: center;
+}
+.text111 p, a{
+	color: red;
+	margin: 15px;
+	font-size: 30px;
+	text-align: center;
+}
+.social{
+	text-align: center;
+}
+.social img{
+	text-align: center;
+	width: 50%;
+}
+.header112{
+	background-color: black;
+	color: white;
+	text-align: center;
+	background-color: rgba(0, 0, 0, .80);
+	margin: -120px 0px 0px 0px;
+	border-radius: 20px;
+	font-family: 'Arima Madurai', cursive;
+}
+.header121{
+	background-color: black;
+	color: white;
+	text-align: center;
+	background-color: rgba(0, 0, 0, .80);
+	margin: -120px 0px 0px 0px;
+	border-radius: 20px;
+	font-family: 'Arima Madurai', cursive;
+
+}
+.avtor{
+	text-align: center;
+}
